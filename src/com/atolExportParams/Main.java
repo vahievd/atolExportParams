@@ -65,6 +65,7 @@ public class Main {
             fptr.processJson();
             System.out.println(fptr.getParamString(IFptr.LIBFPTR_PARAM_JSON_DATA));
 */
+
         }
         fptr.close();
         fptr.destroy();
