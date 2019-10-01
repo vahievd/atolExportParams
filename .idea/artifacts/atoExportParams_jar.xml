@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="atoExportParams:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/atolExportParams_jar</output-path>
+    <root id="archive" name="atolExportParams.jar">
+      <element id="module-output" name="atolExportParams" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../10.4.2/wrappers/java/libfptr10.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
